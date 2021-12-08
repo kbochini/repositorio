@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T20:16:17.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.9.1" etag="PUQsSyfQYvTKWKt1BlgA" type="github"><diagram id="u30t4sExt3LVhuVRjp8H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-08T20:59:04.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="6TcPVkeu3dJeQWjSkxL1" version="15.9.1" type="github">
+  <diagram id="u30t4sExt3LVhuVRjp8H" name="Page-1">
+    <mxGraphModel dx="1822" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-19" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Portátil&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Multifuncional&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Servidor&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Monitor&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Router&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Switch&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Rack&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Telefone&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=left;fontStyle=1;whiteSpace=wrap;rounded=0;sketch=0;glass=0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="-188" y="180" width="176" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-29" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#10739E;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="720" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-30" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#F2931E;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="820" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-31" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#AE4132;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="920" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-32" value="" style="ellipse;html=1;strokeWidth=4;fillColor=#0E8088;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1020" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-34" value="Políticas de&amp;nbsp; acesso" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#008a00;strokeColor=#005700;shadow=0;fontSize=17;align=center;spacingLeft=10;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="670" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-35" value="Escritório" style="html=1;shape=mxgraph.infographic.bannerHalfFold;dx=40;dx2=20;notch=15;fillColor=#10739E;strokeColor=none;align=left;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingLeft=25;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="60" y="750" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-36" value="Salão" style="html=1;shape=mxgraph.infographic.bannerHalfFold;dx=40;dx2=20;notch=15;fillColor=#F2931E;strokeColor=none;align=left;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingLeft=25;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="60" y="810" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-37" value="Takeaway" style="html=1;shape=mxgraph.infographic.bannerHalfFold;dx=40;dx2=20;notch=15;fillColor=#AE4132;strokeColor=none;align=left;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingLeft=25;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="60" y="870" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-38" value="&lt;font color=&quot;#ffffff&quot;&gt;Cozinha&lt;/font&gt;" style="html=1;shape=mxgraph.infographic.bannerHalfFold;dx=40;dx2=20;notch=15;fillColor=#0E8088;strokeColor=#0E8088;align=left;verticalAlign=top;fontSize=14;fontStyle=1;spacingLeft=25;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="60" y="930" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-71" value="Escritório" style="html=1;shape=mxgraph.infographic.ribbonRolled;dx=185;dy=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="100" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-72" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;CPU&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Impressora&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(77 , 77 , 77)&quot;&gt;Monitor&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Repetidor&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;TV&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Telefone&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=left;fontStyle=1;whiteSpace=wrap;rounded=0;sketch=0;glass=0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="32" y="180" width="176" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-73" value="Salão" style="html=1;shape=mxgraph.infographic.ribbonRolled;dx=185;dy=15;fillColor=#f0a30a;strokeColor=#BD7000;align=center;verticalAlign=middle;fontColor=#000000;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-74" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;CPU&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Monitor&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Impressora&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Telefone&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=left;fontStyle=1;whiteSpace=wrap;rounded=0;sketch=0;glass=0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="252" y="180" width="176" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-75" value="Takeaway" style="html=1;shape=mxgraph.infographic.ribbonRolled;dx=185;dy=15;fillColor=#a20025;strokeColor=#6F0000;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-76" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;CPU&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Monitor&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(77 , 77 , 77)&quot;&gt;Telefone&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=left;fontStyle=1;whiteSpace=wrap;rounded=0;sketch=0;glass=0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="462" y="180" width="176" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFdvAqi6wvmAxn2UPdx9-77" value="Cozinha" style="html=1;shape=mxgraph.infographic.ribbonRolled;dx=185;dy=15;fillColor=#0E8088;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
